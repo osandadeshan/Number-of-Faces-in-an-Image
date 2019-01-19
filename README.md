@@ -1,1 +1,1 @@
-# Number-of-Faces-in-an-Image
+# Number of Faces in an image
